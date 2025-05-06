@@ -1,3 +1,4 @@
+```
 project/
 ├── config/
 │   └── database.php
@@ -12,3 +13,4 @@ project/
 │   ├── list.php
 │   └── form.php
 └── index.php
+```
